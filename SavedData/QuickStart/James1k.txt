@@ -1,0 +1,4 @@
+James1K; Red; ShootAndWaitStrategy;
+AUnitName2:M20;
+OtherUnit:F602;
+another:C12:A33;

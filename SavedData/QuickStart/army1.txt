@@ -1,0 +1,2 @@
+Army1; Green; RushInStrategy;
+OtherUnit:F995

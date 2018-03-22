@@ -1,0 +1,53 @@
+@startuml
+SimulationSeed o-- "*" Army
+SimulationSeed o-- Battlefield
+Army *--  "*" Unit
+Army *-- General
+Unit *-- Officer
+Unit *--  "*" Soldier
+Unit o-- Formation
+Soldier <|-- Officer
+Soldier <|-- General
+Soldier <|-- Cavalry
+Soldier <|-- Archer
+newpage
+AbstractAction <|-- DoNothing
+AbstractAction <|-- Move
+AbstractAction <|-- Charge
+AbstractAction <|-- EngageCombat
+AbstractAction <|-- RangedAttack
+AbstractAction <|-- Teleport
+AbstractAction <|-- ProjectileStrike
+newpage
+AbstractOrder o-- AbstractOrderDuration
+AbstractOrder <|-- ChargeOrder
+AbstractOrder <|-- EngageEnemies
+AbstractOrder <|-- HoldGround
+AbstractOrder <|-- March
+AbstractOrder <|-- AttackAtRange
+AbstractOrderDuration <|-- UntilTime
+AbstractOrderDuration <|-- UntilEngaged
+AbstractOrderDuration <|-- UntilComplete
+AbstractOrderDuration <|-- Countdown
+AbstractOrderDuration <|-- Forever
+newpage
+BattlefieldObject --> ObjectState
+SceneSnapshot o-- "*" ObjectState
+SceneSnapshot o-- "*" ArmyState
+Army --> ArmyState
+SimulationEngine *-- "*" SceneSnapshot
+ObjectState : paintObject(Graphics2d)
+newpage
+AbstractStrategy --* General  
+AbstractStrategy <|-- ShootAndWait
+AbstractStrategy <|-- RushIn
+AbstractStrategy <|-- TestArmyFormation
+AbstractStrategy <|-- WedgeCharge 
+AbstractObjective <|-- ShootAtRange
+AbstractObjective <|-- ProtectUnit
+AbstractObjective <|-- RushEnemyUnit
+AbstractObjective <|-- TakePosition
+AbstractObjective <|-- WedgeCharge
+AbstractObjective <-- AbstractStrategy
+Officer *-- AbstractObjective 
+@enduml

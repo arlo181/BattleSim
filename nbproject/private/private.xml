@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/battlesimulator/Geography/Stone.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>49</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Battle simulator">
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/battlesimulator/BattlefieldObject.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/battlesimulator/Geography/Battlefield.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/GUI/TitleScreen.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Strategy/ProtectUnitObjective.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Strategy/ShootAtRangeObjective.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Strategy/AbstractStrategy.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Objects/FireBall.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Objects/ArchProjectile.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/SimBuilderTools/CreateBattlefield.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Strategy/ShootAndWaitStrategy.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/battlesimulator/Military/UnitMetrics.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/battlesimulator/Military/Soldier.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Strategy/StrategyService.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/SimBuilderTools/QuickArmyBuildParser.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Strategy/WedgeChargeStrategy.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/battlesimulator/SimulationEngine.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/battlesimulator/Military/General.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Tournament/TourneyMatch.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Strategy/RushEnemyUnitObjective.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/battlesimulator/Military/Archer.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/SimBuilderTools/CreateFormation.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/battlesimulator/Military/Unit.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Tournament/TourneyScreen.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/Tournament/TourneyManager.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/battlesimulator/BattleSimulator.java</file>
+            <file>file:/C:/Users/Arlo/Documents/NetBeansProjects/BattleSimulator/src/SimBuilderTools/CreateArmy.java</file>
+        </group>
+    </open-files>
+</project-private>

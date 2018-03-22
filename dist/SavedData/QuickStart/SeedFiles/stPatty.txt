@@ -1,0 +1,3 @@
+C:\Users\Arlo\Documents\NetBeansProjects\BattleSimulator\SavedData\QuickStart\Battlefields\smallish.txt
+C:\Users\Arlo\Documents\NetBeansProjects\BattleSimulator\SavedData\QuickStart\Armies\army4.txt
+C:\Users\Arlo\Documents\NetBeansProjects\BattleSimulator\SavedData\QuickStart\Armies\army3.txt

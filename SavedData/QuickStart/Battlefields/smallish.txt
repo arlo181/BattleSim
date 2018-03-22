@@ -1,0 +1,3 @@
+testField,25,150,150;
+westStart,600,400;
+eastStart,1500,400

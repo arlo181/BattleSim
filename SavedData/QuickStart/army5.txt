@@ -1,0 +1,2 @@
+Army5; Green;RushInStrategy;
+AUnitName2:F70

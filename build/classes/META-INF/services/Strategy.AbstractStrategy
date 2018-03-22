@@ -1,0 +1,4 @@
+Strategy.RushInStrategy
+Strategy.ShootAndWaitStrategy
+Strategy.TestArmyFormationStrategy
+Strategy.WedgeChargeStrategy

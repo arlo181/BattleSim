@@ -1,0 +1,4 @@
+PewPew1kMSW;Purple;ShootAndWaitStrategy;
+NorthFootmen:F251;
+SouthFootmen:F251;
+PewPew:A161

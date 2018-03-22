@@ -1,0 +1,11 @@
+Travis2k; Blue; ShootAndWaitStrategy;
+Ca0:C5;
+AUnitName2:F10:M14;
+AUnitName3:F10:A45;
+AUnitName4:F10:M14;
+AUnitName5:F10:A45;
+FF:F845;
+AUnitName6:F10:M14;
+AUnitName7:F10:A45;
+AUnitName8:F10:M14;
+Ca1:C5

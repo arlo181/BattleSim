@@ -1,0 +1,5 @@
+Woozles-BW2; Orange; RushInStrategy;
+SmashAdams:F31:A26:C43:M9;
+WaffleStomper:F56:A57:C29:M7;
+QuailMan:F59:A119:C12;
+PowderedToastMan:F9:A7:C20:M31

@@ -1,0 +1,2 @@
+Army4; Purple; RushInStrategy;
+AUnitName2:F995;

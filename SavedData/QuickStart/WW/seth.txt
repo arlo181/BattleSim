@@ -1,0 +1,7 @@
+Legion-SP2; Orange; TestArmyFormationStrategy;
+MaskedUnits1:F94:M1:A95;
+MaskedUnits2:F94:M1:A95;
+MaskedUnits3:F94:M1:A95;
+MaskedUnits4:F94:M1:A95;
+MaskedUnits5:F94:M1:A95;
+TheOtherGuys:F5:M2

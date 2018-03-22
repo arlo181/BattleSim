@@ -1,0 +1,6 @@
+Army1;Blue;
+AUnitName2:F20000;
+BUnitName3:C6000;
+CUnitName2:A10000:M100;
+BUnitName3:C6000;
+AUnitName2:F20000;

@@ -1,0 +1,7 @@
+SelimovicArmy; Orange; TestArmyFormationStrategy;
+
+Unit1:F170:A150:M4;
+
+Unit2:F175:A150:M4;
+
+Unit3:F170:A150:M4

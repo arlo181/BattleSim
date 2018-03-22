@@ -1,0 +1,4 @@
+Heffalumps-BW1; Cyan; ShootAndWaitStrategy;
+CaptainNemo:F12:A33:C16:M1;
+MitchRapp:F9:A73:C15;
+GrumpyOldGuy:F5:A37:C5:M18

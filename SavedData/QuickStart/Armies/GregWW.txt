@@ -1,0 +1,3 @@
+ArmyGREGL; Black; ShootAndWaitStrategy;
+AUnitName2:A386:M4;
+AUnitName3:F792

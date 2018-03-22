@@ -1,0 +1,2 @@
+Army8; Orange; RushInStrategy;
+AUnitName2:M7

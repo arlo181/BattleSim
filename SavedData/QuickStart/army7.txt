@@ -1,0 +1,2 @@
+Army7; Red; RushInStrategy;
+AUnitName2:A23

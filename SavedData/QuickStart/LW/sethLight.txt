@@ -1,0 +1,2 @@
+Legion-SP1; Orange; RushInStrategy;
+MaskedUnits:F245:M10:A100:C50

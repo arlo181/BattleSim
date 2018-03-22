@@ -1,0 +1,11 @@
+NormsArmy; Blue; WedgeChargeStrategy;
+Alpha:F88:C1;
+Beta:F88:C1;
+Delta:F88:C1;
+Pi:F88:C1;
+Gamma:F88:C1;
+Alpha2:F88:C1;
+Beta2:F88:C1;
+Delta2:F88:C1;
+Pi2:F88:C1;
+Gamma2:F88:C1

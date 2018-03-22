@@ -1,0 +1,7 @@
+SelimovicArmy; Orange; ShootAndWaitStrategy;
+
+Unit1:F43:A85:M3;
+
+Unit2:F44:A85:M3;
+
+Unit3:F43:A85:M3

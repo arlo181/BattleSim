@@ -1,0 +1,3 @@
+ArmyGREGS; Black; ShootAndWaitStrategy;
+AUnitName2:A193:M2;
+AUnitName3:F391

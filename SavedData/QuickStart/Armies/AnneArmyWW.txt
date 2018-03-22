@@ -1,0 +1,3 @@
+ArmyAnne;Cyan;RushInStrategy;
+ATeam:M29:C100;
+BTeam:C100:F300
